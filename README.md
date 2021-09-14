@@ -27,11 +27,13 @@ Expertise: Team Mentor, Micro Service Management, CI/CD automation, Build/Releas
 
 - Bash - Python
 - Ansible - Puppet
-- Terraform - Cloud Formation - CDK (Typescript)
-- Docker 
+- Terraform - Cloud Formation - CDKTF (Typescript)
+- Docker - DockerCompose
 - Kubernetes - CKA - CKAD - CKS
+- Helm Package manager
+- 
 - Jenkins - GitHub action - ArgoCD - Gitlab CI/CD
-- EKS - ECS - Lambda - ELK - MKS - RDS - S3 - Cloudfront - VPC - tunneling - Beanstalk - Autoscaling - SSM
+- EKS - ECS - Lambda - ELK - MSK - RDS - S3 - Cloudfront - VPC - tunneling - Beanstalk - Autoscaling - SSM
 - Hashicorp : Consul - Vault
 - Redis - Kafka
 
