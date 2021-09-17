@@ -33,11 +33,12 @@ Expertise: Team Mentor, Micro Service Management, CI/CD automation, Build/Releas
 - Helm Package manager
 - Istio - Kiali - Jeager
 - Kong API management - Traefik - ALB controller
-- Jenkins - GitHub action - ArgoCD - Gitlab CI/CD - Jenkins-X(GitOps) - Spinnaker - Teamcity
+- Jenkins - ArgoCD - Gitlab CI/CD - Jenkins-X(GitOps) - Spinnaker - Teamcity
 - EKS - ECS - Lambda - ELK - RDS - S3 - Cloudfront - VPC - tunneling - Beanstalk - Autoscaling - SSM
 - Hashicorp : Consul - Vault
 - Redis - Kafka
 - Grafana - Prometheus - ELK - EFK - CloudWatch - DataDog - InfluxDB
+- Keycloak - Velero - 
 
 ### DataOps Skills:
 
