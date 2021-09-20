@@ -45,7 +45,7 @@ Expertise: Team Mentor, Micro Service Management, CI/CD automation, Build/Releas
 
 - Airflow
 - MSK - MSK plugins - MSK connector - S3bucket
-- ETL DataFlow
+- ETL DataFlow - Data Pipeline
 - Redshift - Hadoop cluster
 
 ### Cloud Skills:
