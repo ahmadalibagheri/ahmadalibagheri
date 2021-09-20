@@ -35,7 +35,7 @@ Expertise: Team Mentor, Micro Service Management, CI/CD automation, Build/Releas
 - Istio - Kiali - Jeager
 - Kong API management - Traefik - ALB controller
 - Jenkins - ArgoCD - Gitlab CI/CD - Jenkins-X(GitOps) - Spinnaker - Teamcity - GitHub action - Azure DevOps
-- EKS - ECS - Lambda - ELK - RDS - S3 - Cloudfront - VPC - tunneling - Beanstalk - Autoscaling - SSM
+- EKS - ECS - Lambda - ELK - RDS - VPC - tunneling - Beanstalk - Autoscaling - SSM
 - Hashicorp Consul - Hashicorp Vault
 - Redis - Kafka
 - Grafana - Prometheus - ELK - EFK - CloudWatch - DataDog - InfluxDB
