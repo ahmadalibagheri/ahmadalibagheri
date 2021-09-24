@@ -35,7 +35,7 @@ Expertise: Team Mentor, Micro Service Management, CI/CD automation, Build/Releas
 - Istio - Kiali - Jeager
 - Kong API management - Traefik - ALB controller
 - Jenkins - ArgoCD - Gitlab CI/CD - Jenkins-X(GitOps) - Spinnaker - Teamcity - GitHub action - Azure DevOps
-- EKS - ECS - Lambda - ELK - RDS - VPC - tunneling - Beanstalk - Autoscaling - SSM
+- EKS - ECS - Lambda - RDS - VPC - Beanstalk - Autoscaling - SSM - KMS - ACM
 - Hashicorp Consul - Hashicorp Vault
 - Redis - Kafka
 - Grafana - Prometheus - ELK - EFK - CloudWatch - DataDog - InfluxDB
@@ -65,7 +65,7 @@ Expertise: Team Mentor, Micro Service Management, CI/CD automation, Build/Releas
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=2231A2)
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?&logo=Express&logoColor=4479A1)
+<!-- ![Express](https://img.shields.io/badge/-Express-000?&logo=Express&logoColor=4479A1) -->
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 
