@@ -65,9 +65,9 @@ Expertise: Team Mentor, Micro Service Management, CI/CD automation, Build/Releas
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=2231A2)
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
-<!-- ![Express](https://img.shields.io/badge/-Express-000?&logo=Express&logoColor=4479A1) -->
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
+<!-- ![Express](https://img.shields.io/badge/-Express-000?&logo=Express&logoColor=4479A1) -->
 
 ### IDEs:
 
