@@ -1,20 +1,22 @@
 # About me
-
+<!-- 
 ![Visits](https://badges.pufler.dev/visits/ahmadalibagheri/ahmadalibagheri)
-![Repos](https://badges.pufler.dev/repos/ahmadalibagheri)
+![Repos](https://badges.pufler.dev/repos/ahmadalibagheri) -->
 
 
 Senior DevOps/FinOps Consultant With more than 16 years of experience in software development, high performance, distributed systems, big data infrastructure, and Cutting edge orchestrates.
 
 Expertise: Team Mentor, Micro Service Management, CI/CD automation, Build/Release Management, Infrastructure as Code, Configuration Management, Cloud Architecture, Data warehousing, Data Pipelines, ETL, Application Containerize and Orchestrates with Kubernetes and Python.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ahmadalibagheri&include_all_commits=true&theme=merko)
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=ahmadalibagheri&include_all_commits=true&theme=merko) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadalibagheri&show_icons=true&theme=dark"/> 
+
 
 
 ### find me here
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadali-bagheri)
-[![youtube](https://img.shields.io/badge/youtube-f0f0f0?&style=for-the-badge&logo=youtube&logoColor=white&color=ea4335)](mailto:ahmadalibagheri2010@gmail.com)
+[![youtube](https://img.shields.io/badge/youtube-f0f0f0?&style=for-the-badge&logo=youtube&logoColor=white&color=ea4335)](https://www.youtube.com/channel/UCve--OvdZ5YROq4BEKyedCw/featured)
 [![Telegram Channel](https://img.shields.io/badge/Channel-f0f0f0?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/DevOpsHobbies) 
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:ahmadalibagheri2010@gmail.com)
 
