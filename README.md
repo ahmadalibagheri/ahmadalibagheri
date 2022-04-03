@@ -1,7 +1,7 @@
 # About me
 
 ![Visits](https://badges.pufler.dev/visits/ahmadalibagheri/ahmadalibagheri)
-![Repos]()
+![Repos](https://badges.pufler.dev/repos/ahmadalibagheri)
 
 
 Senior DevOps/FinOps Consultant With more than 16 years of experience in software development, high performance, distributed systems, big data infrastructure, and Cutting edge orchestrates.
