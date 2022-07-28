@@ -2,7 +2,7 @@
 
 ![Visits](https://badges.pufler.dev/visits/ahmadalibagheri/ahmadalibagheri)
 ![Repos](https://badges.pufler.dev/repos/ahmadalibagheri)
-
+![](https://komarev.com/ghpvc/?username=ahmadalibagheri)
 
 Senior DevOps/FinOps Consultant With more than 16 years of experience in software development, high performance, distributed systems, big data infrastructure, and Cutting edge orchestrates.
 
